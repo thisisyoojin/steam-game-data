@@ -1,0 +1,14 @@
+DB:
+    USER: "postgres"
+    PASSWD: "postgres"
+    HOST: "localhost"
+    PORT: 5432
+    DB_NAME: "steam-db"
+
+
+FILES:
+    TAGS: "./data/tags.txt"
+
+
+TOR:
+    PASSWD: "didvk"
