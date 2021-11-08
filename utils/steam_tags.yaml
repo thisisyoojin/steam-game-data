@@ -1,13 +1,3 @@
-DB:
-    USER: "postgres"
-    PASSWD: "postgres"
-    HOST: "localhost"
-    PORT: 5432
-    DB_NAME: "steam-db"
-
-FILES:
-    TAGS: "./data/tags.txt"
-
 
 ROOT_PAGE: "https://store.steampowered.com/search"
 

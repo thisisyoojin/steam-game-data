@@ -3,3 +3,4 @@
 /data
 /.vscode
 */*checkpoints
+*/db_config.yaml

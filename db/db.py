@@ -2,7 +2,7 @@ import yaml
 from sqlalchemy import create_engine
 
 """
-Train/Test data
+Getting a connection for postgresql
 """
 def get_conn(fname):
 
@@ -16,5 +16,8 @@ def get_conn(fname):
     return conn
 
 
-def insert_data():
+def insert_data(table):
     conn = get_conn("config.yaml")
+    query = f"""
+        INSERT INTO {table} VALUES ()
+    """

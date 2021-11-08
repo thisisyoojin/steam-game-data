@@ -27,14 +27,13 @@ def get_last_id():
 
 
 def get_api_data():
-    
+    """
+    """
     idx = 0
     tor = TorRequest(password='didvk')
     df_ = read_tags()
     last_id = get_last_id()
     ids = df_[df_['id'] > last_id]['id'].values
-    # print(ids[-1]): 1777670
-    print(ids[0])
 
     for app_id in ids:
         
