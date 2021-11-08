@@ -1,0 +1,177 @@
+languages:
+
+    English:
+      - English
+      - Englisch
+      - Inglés
+      - английский
+    
+    Korean:
+      - Korean
+      - Coreano
+      - Koreanisch
+      - корейский
+    
+    Japanese:
+      - Japanese
+      - Japanisch
+      - Japonés
+      - японский
+
+    Traditional Chinese:
+      - Traditional Chinese
+      - Chinesisch (traditionell)
+      - китайский (трад.)
+    
+    Simplified Chinese:
+      - Simplified Chinese
+      - Chinesisch (vereinfacht)
+      - Chino simplificado
+      - китайский (упр.)
+    
+    French: 
+      - French
+      - Francés
+      - Französisch
+      - французский
+
+    Italian: 
+      - Italian
+      - Italiano
+      - Italienisch
+      - итальянский
+
+    German:
+      - German
+      - Alemán
+      - Deutsch
+      - немецкий
+    
+    Spanish:
+      - Spanish - Spain
+      - Español de España
+      - Spanisch – Spanien
+      - Spanish - Latin America
+      - Spanisch – Lateinamerika
+      - испанский
+
+    Brazilian:
+      - Portuguese - Brazil
+      - Brasilianisches Portugiesisch
+      - Portugués de Brasil
+      - бр. португальский
+    
+    Polish: 
+      - Polish
+      - Polaco
+      - Polnisch
+      - польский
+
+    Russian:
+      - Russian
+      - Ruso
+      - Russisch
+      - русский
+
+    Portuguese:
+      - Portuguese
+      - Portugués
+      - Portugiesisch
+      - португальский
+
+    Turkish:
+      - Turkish
+      - Türkisch
+      - Turco
+      - турецкий
+
+    Arabic:
+      - Arabic
+      - Arabisch
+    
+    Danish:
+      - Danish
+      - Dänisch
+      - Danés
+      - датский
+      
+    Bulgarian:
+      - Bulgarian
+      - Búlgaro
+      - болгарский
+
+    Czech:
+      - Checo
+      - Czech
+      - Tschechisch
+      - чешский
+
+    Dutch:
+      - Dutch
+      - Holandés
+      - Niederländisch
+      - нидерландский
+
+    Finnish:
+      - Finnish
+      - Finnisch
+      - Finés
+      - финский
+
+    Romanian:
+      - Romanian
+      - Rumano
+      - Rumänisch
+      - румынский
+
+    Greek:
+      - Greek
+      - Griechisch
+      - Griego
+      - греческий
+
+    Hungarian:
+      - Hungarian
+      - Húngaro
+      - Ungarisch
+      - венгерский
+
+    Norwegian:
+      - Norwegian
+      - Noruego
+      - Norwegisch
+      - норвежский
+
+    Swedish:
+      - Swedish
+      - Schwedisch
+      - Sueco
+      - шведский
+    
+    Slovakia:
+      - Slovakian
+    
+    Thai:
+      - Thai
+      - тайский
+    
+    Vietnamese:
+      - Vietnamese
+      - Vietnamesisch
+      - вьетнамскийозвучивание
+    
+    Ukranian:
+      - Ukrainian
+      - Ucraniano
+      - Ukrainisch
+      - украинский
+
+
+currency:
+    GBP: 1
+    EUR: 0.85
+    USD: 0.73
+    ARS: 0.0074
+    UAH: 0.028
+    KRW: 0.00061
+    np.nan: 0

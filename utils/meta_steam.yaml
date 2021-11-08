@@ -1,0 +1,232 @@
+DB:
+    USER: "postgres"
+    PASSWD: "postgres"
+    HOST: "localhost"
+    PORT: 5432
+    DB_NAME: "steam-db"
+
+FILES:
+    TAGS: "./data/tags.txt"
+
+
+ROOT_PAGE: "https://store.steampowered.com/search"
+
+LABELS:
+    Graphic:
+        - 2D
+        - 3D
+        - Cartoon
+        - Pixel
+        - Realistic
+        - Top-Down
+        - Isometric
+        - First-person
+        - Third-person
+        
+    Players:
+        - Multiplayer
+        - Local_multi
+        - Massive_multi
+        - Co-op
+        - PvP
+
+    Genre:
+        - Action
+        - Adventure
+        - Casual
+        - Puzzle
+        - RPG
+        - Simulation
+        - Strategy
+        - Racing
+        - Arcade
+        - Sports
+      
+    Content:
+        - Story-rich
+        - Open-World
+        - Choices-Matter
+        - Multiple-Endings
+
+    Theme:
+        - Sci-fi-Mechs
+        - Post-apocalyptic
+        - Retro
+        - Zombies
+        - Military
+        - Fantasy
+        - Historical
+        - Modern
+
+    Mood:
+        - Violent
+        - Funny
+        - Horror
+        - Sexual
+        - Relaxing
+        - Dark
+        - Mystery
+        - Atmospheric
+        - Cute
+    
+    Features:
+        - Fight
+        - Shoot
+        - Combat
+        - Platformer
+        - Hack-and-Slash
+        - Survive
+        - Build-and-Create
+        - Customize
+        - Manage
+        - Explore
+        
+    Release:
+        - Early-access
+    
+    Developer:
+        - Indie
+    
+    Support:
+        - Controller
+        
+
+    
+
+TAGS:
+    2D:
+        - 3871 # 2D
+        - 4975 # 2.5D
+    3D:
+        - 4191 # 3D
+    Cartoon:
+        - 4085 # Anime
+        - 4562 # Cartoon
+        - 6815 # Hand-drawn
+    Pixel:
+        - 3964 # Pixel Graphics
+    Realistic:
+        - 4175 # Realistic
+    Top-Down:
+        - 4791 # Top-Down
+    Isometric:
+        - 5851 # Isometric
+    First-person:
+        - 3839
+    Third-person:
+        - 1697
+    Multiplayer:
+        - 3859
+    Local_multi:
+        - 7368 # Local Multiplayer
+    Massive_multi:
+        - 128 # Massivley Multiplayer
+    Co-op:
+        - 3841 # Local Co-Op
+        - 3843 # Online Co-Op
+    PvP:
+        - 1775 # PvP
+    Story-rich:
+        - 1742
+    Open-World:
+        - 1695
+    Choices-Matter:
+        - 6426
+    Multiple-Endings:
+        - 6971
+    Action:
+        - 19
+    Adventure:
+        - 21
+    Casual:
+        - 597
+    Puzzle:
+        - 1664
+    RPG:
+        - 122
+    Simulation:
+        - 599
+    Strategy:
+        - 9
+    Racing:
+        - 699
+    Arcade:
+        - 1773
+    Sports:
+        - 701
+    Sci-fi-Mechs:
+        - 3942 #Sci-fi
+        - 4821 #Mechs
+        - 5752 #Robots
+    Post-apocalyptic:
+        - 3835
+    Retro:
+        - 3916 #Old school
+        - 4004 #Retro
+    Zombies:
+        - 1659
+    Military:
+        - 1678 # War
+        - 4168 # Military
+    Fantasy:
+        - 1684
+    Historical:
+        - 3987 # Historical
+        - 1777 # Steampunk
+        - 3952 # Gothic
+    Modern:
+        - 5673
+    Violent:
+        - 4345 # Gore
+        - 4667 # Violent
+    Funny:
+        - 4136 # Funny
+        - 1719 # Comedy
+    Horror:
+        - 1667
+    Sexual:
+        - 12095 # Sexual
+        - 6650 # Nudity
+    Relaxing:
+        - 1654 
+    Dark:
+        - 4342
+    Mystery:
+        - 5716
+    Atmospheric:
+        - 4166 # Atmospheric
+        - 5411 # Beautiful
+        - 4145 # Cinematic
+    Cute:
+        - 4726 # Cute
+    Fight:
+        - 1743 # Fighting
+        - 4158 # Beat'em up
+    Shoot:
+        - 1774 #Shooter
+        - 4255 #Shoot'em up
+    Combat:
+        - 3993 #Combat
+    Platformer:
+        - 1625
+    Hack-and-Slash:
+        - 1646
+    Survive:
+        - 1662
+    Build-and-Create:
+        - 1643 # Building
+        - 1702 # Crafting
+        - 3810 # Sandbox
+    Customize:
+        - 1669 # Moddable
+        - 4747 # Chracter customization
+    Manage:
+        - 12472
+    Explore:
+        - 3834
+    Early-access:
+        - 493
+    Indie:
+        - 492
+    Controller:
+        - 7481
